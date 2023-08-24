@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://i.postimg.cc/Cx00Vykx/Outer-Space-Nft-Collection-Store-Banner-2.png" alt="Imagen de encabezado">
 </p>
-
+[![Discord](https://img.shields.io/discord/ID_DEL_SERVIDOR?label=Discord&logo=discord&logoColor=white&color=7289DA)](https://discord.gg/TU_ENLACE_DEL_SERVIDOR)
 ## Acerca de mí
 
 - 🔭 Actualmente estoy trabajando en proyectos academicos.
