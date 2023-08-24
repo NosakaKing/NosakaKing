@@ -1,4 +1,4 @@
-# Bienvenido a mi perfil de GitHub 👋
+<h1 align="center">Hola soy Raul Duran 👋</h1>
 
 ¡Hola! Soy Raul Duran, un apasionado estudiante de Ing. Software con experiencia en el desarrollo Frontend. Siempre estoy buscando formas de aprender, crecer y contribuir en el mundo de la tecnología.
 
