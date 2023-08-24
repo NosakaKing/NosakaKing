@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Raul Duran 👋</h1>
 <p align="center">
-  <img src="https://i.postimg.cc/mrW9Qgvy/Outer-Space-Nft-Collection-Store-Banner.png" alt="Imagen de encabezado">
+  <img src="https://i.postimg.cc/MTT1GFkC/Outer-Space-Nft-Collection-Store-Banner-1.png" alt="Imagen de encabezado">
 </p>
 
 ## Acerca de mí
