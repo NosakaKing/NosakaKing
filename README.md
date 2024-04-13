@@ -10,6 +10,6 @@
 ## Acerca de mí
 
 - 🔭 Actualmente estoy trabajando en proyectos academicos.
-- 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías.
+- 💻️ Siempre estoy aprendiendo y explorando nuevas tecnologías.
 - 👯 Me encanta colaborar en proyectos y trabajar en equipo..
-- ⚡ Estudiante de Ing. Software.
+- 🧑‍💻 Estudiante de Ing. Software.
