@@ -13,3 +13,8 @@
 - 💻️ Siempre estoy aprendiendo y explorando nuevas tecnologías.
 - 👯 Me encanta colaborar en proyectos y trabajar en equipo..
 - 🧑‍💻 Estudiante de Ing. Software.
+
+---
+
+![Orlando's GitHub stats](https://github-readme-stats.vercel.app/api?username=orlandoduranpy&show_icons=true&theme=github_dark)
+
