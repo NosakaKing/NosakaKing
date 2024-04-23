@@ -16,5 +16,5 @@
 
 ---
 
-![Orlando's GitHub stats](https://github-readme-stats.vercel.app/api?username=orlandoduranpy&show_icons=true&theme=github_dark)
+![Orlando's GitHub stats](https://github-readme-stats.vercel.app/api?username=nosakaking&show_icons=true&theme=github_dark)
 
